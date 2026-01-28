@@ -9,13 +9,13 @@ redirect_from:
 
 
 
-I am currently a Postdoc Researcher at the Institut de Recherche en Informatique de Toulouse (IRIT). I did my PhD at IRIT - Université Paul Sabatier under the supervision of [Lynda Tamine](https://www.irit.fr/~Lynda.Tamine-Lechani/) and [José G. Moreno](https://sites.google.com/site/jgmorenof/jose-g-moreno_1). My PhD research topic focused on the integration of structural knowledge into Pre-trained Language Models. 
+I am currently a Postdoc Researcher at the Groupe de Recherche en Informatique, Image et Instrumentation  de Caen (GREYC), where I work on the application of generative AI to support medical practitioners as part of the [PARTAGES project](https://www.health-data-hub.fr/actualites/democratiser-lia-generative-en-sante-letat-travers-france-2030-selectionne-le-projet). Before, I was a Postdoc Researcher at the Institut de Recherche en Informatique de Toulouse (IRIT) working on the early detection of major congenital malformation risk in pregnancy, in the context of the [INuTERO project](https://www.health-data-hub.fr/partenariats/utero). I did my PhD at IRIT - Université Paul Sabatier under the supervision of [Lynda Tamine](https://www.irit.fr/~Lynda.Tamine-Lechani/) and [José G. Moreno](https://sites.google.com/site/jgmorenof/jose-g-moreno_1). My PhD research topic focused on the integration of structural knowledge into Pre-trained Language Models. 
 
 
 Before my PhD, I earned my Master's degree at Université Paul Sabatier and a Bachelor's degree from the Universidad Nacional de Ingeniería in Lima, Perú. I have had the chance to do some different research internships at IRIT (Toulouse), and SmartCityPeru Lab (Lima). Also, I worked as a software developer at Wolfram Research in Lima.
 
 
-My research interests are centered around the fields of  Natural Language Processing, Information Retrieval, and Computation Linguistics
+My research interests are centered around the fields of  Natural Language Processing, Information Retrieval, Computation Linguistics, and Healthcare applications.
 
 
 
@@ -26,6 +26,7 @@ My research interests are centered around the fields of  Natural Language Proces
 - B.S in Computer Science, Universidad Nacional de Ingeniería (2010-2016)
 
 # WORK
+- Postdoc @ GREYC (2026-current)
 - Postdoc @ IRIT (2024-2025)
 - ATER @ IRIT (2023-2024)
 - PhD researcher @ IRIT (2020-2023)
